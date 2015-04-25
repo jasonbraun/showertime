@@ -1,2 +1,2 @@
 # showertime
-Website for Showertime - very old code, updating for 2015
+Website for showertime.net - very old code, updating for 2015
